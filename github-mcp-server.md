@@ -49,7 +49,7 @@ For more detailed information, refer to the [github-mcp-server documentation](ht
         ```
         ![Create Repository](image-2.png)
 
-    - Locate the ![Tools button](image-3.png) in Copilot Chat and check all the available tools provided by the MCP server.
+> Locate <img src="./image-3.png" width="25">  in Copilot options and this will show all the available tools provided by the MCP server.
 
 
 
