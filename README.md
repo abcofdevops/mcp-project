@@ -55,3 +55,25 @@ For more detailed information on how to use MCP, MCP servers etc. refer to the [
 
 > ### Bonus
 > **[github-mcp-server.md](./github-mcp-server.md)**: Run github-mcp-server locally and use it to create repository in github
+
+> ### Docker Desktop MCP support
+Docker Desktop with its latest version 4.43.1
+
+<img width="738" height="497" alt="image" src="https://github.com/user-attachments/assets/527d62ff-a640-4629-ad22-d8768b3527e9" />
+
+Provided with MCP Toolkit
+
+<img width="603" height="366" alt="image" src="https://github.com/user-attachments/assets/e8492663-454d-4e02-bf62-2239dcaac4f3" />
+
+Browse and connect Dockerized MCP servers to your favorite MCP clients.
+<img width="1202" height="570" alt="image" src="https://github.com/user-attachments/assets/e994eb62-86f1-4ffa-ab40-18cecfeaa5d3" />
+
+> [Official Documentation](https://docs.docker.com/ai/mcp-catalog-and-toolkit/toolkit/)
+
+
+
+
+
+
+
+
